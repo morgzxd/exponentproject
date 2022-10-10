@@ -1,6 +1,4 @@
 from time import perf_counter
-import math
-
 
 def expt(x, n):
     if n < 0:
